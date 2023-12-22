@@ -94,7 +94,7 @@ h3{
     margin-bottom: 5rem;
 }
 
-.card {
+/* .card {
     border: 1px solid #ccc;
     border-radius: 8px;
     margin: 10px;
@@ -106,7 +106,7 @@ h3{
 .card img {
     max-width: 100%;
     border-radius: 5px;
-}
+} */
 
 .parallax{
     height: 100%; 
@@ -143,4 +143,18 @@ h3{
     color: white;
     text-decoration: none;
     font-size: 24px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.portrait{
+    width: 5rem;
 }
